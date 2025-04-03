@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [Schechter.ye@gmail.com](mailto:Schechter.ye@gmail.com)
-* 🧠  I'm learning Blockchain Tecghnology
+* 🧠  I'm learning Blockchain Technology
 * 🤝  I'm open to collaborating on Meaningful projects and collaborative opportunities
 
 ### Skills
